@@ -1,0 +1,1 @@
+Simple Pokédex app consisting of 3 pages. One to choose the generation to start fetching Pokémons, one rendering said Pokémons with an infinite scroll with a possibility to keep going till the last gen, and a single detailed Pokémon page. 
