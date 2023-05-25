@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  color: white;
+  font-family: "VALORANT", sans-serif;
+}
+
+//common
+.cardDate {
+  margin: 1rem 1rem 0.5rem 1rem;
+  color: grey;
+  font-size: 12px;
+}
+
+hr {
+  height: 1px;
+  background-color: rgb(92, 92, 92);
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,24 @@
+.smallCardContainer {
+  // margin: auto;
+  // border: solid white 2px;
+  width: 30rem;
+  height: 10rem;
+  display: flex;
+  border-bottom: solid rgb(92, 92, 92) 1px;
+}
+
+.smallCardImage {
+  padding: 1rem 1rem 1rem 0;
+  width: 15rem;
+}
+
+.smallCardtitle {
+  font-size: 16px;
+  margin: 0.5rem 0 0 1rem;
+}
+
+.smallTextContent {
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
