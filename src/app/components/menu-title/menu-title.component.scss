@@ -1,6 +1,13 @@
-.menuTitleContainer h1 {
-  font-size: 9.6rem;
-  padding: 1rem;
+.menuTitleContainer {
+  // height: 20rem;
   display: flex;
+  flex-direction: column;
+}
+
+.menuTitle {
+  font-size: 14rem;
+  margin: auto;
+  display: flex;
+  align-items: center;
   justify-content: center;
 }

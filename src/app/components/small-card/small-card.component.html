@@ -1,18 +1,12 @@
 <div class="smallCardContainer">
-  <a href="">
-    <img
-      class="smallCardImage"
-      src="https://uploads.sitepoint.com/wp-content/uploads/2022/09/1663565358random-numbers-js.jpg"
-      alt=""
-      srcset=""
-    />
+  <a [routerLink]="['content', id]">
+    <img class="smallCardImage" src="{{ smallImage }}" alt="" srcset="" />
   </a>
   <div class="smallTextContent">
-    <a href="">
+    <a [routerLink]="['content', id]">
       <span class="cardDate">20 de maio de 2023</span>
       <h3 class="smallCardtitle">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem vel
-        autem accusamus asperiores quo ut!
+        {{ smallCardTitle }}
       </h3>
     </a>
   </div>

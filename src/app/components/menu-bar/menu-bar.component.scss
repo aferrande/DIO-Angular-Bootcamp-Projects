@@ -1,4 +1,10 @@
 .menuBarContainer {
-  height: 4rem;
   display: flex;
+  padding-left: 1rem;
+}
+
+.nav-link {
+  display: flex;
+  gap: 0.2rem;
+  align-items: center;
 }
