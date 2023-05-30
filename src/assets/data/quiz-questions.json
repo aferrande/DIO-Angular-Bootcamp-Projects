@@ -1,0 +1,183 @@
+{
+  "title": "vAloquiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ao entrar no bomb, você:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Dá clear em todos os ângulos antes de plantar a Spike",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "option": "Já chega plantando, afinal a Spike tá com você",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "option": "Vai avançando até onde dá, e deixa o bomb com seus amigos",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "option": "Mira onde seus companheiros não estão mirando",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Ao ver uma skill sendo usada de forma exótica, você:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Pensa que pode ter um motivo por trás disso e vai com cautela",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "option": "Ri do adversário que não sabe jogar e vai sem medo",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "option": "Faz uma leitura dos rounds passados pra entender se é proposital ou não",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "option": "Ignora, afinal sempre tem elojobados nos games",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Ao dar um strafe e avistar um inimigo você:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mira com calma, afinal o HS é o caminho mais fácil de vencer um duelo",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "option": "Atira o mais rápido possível, afinal o jogo é de reflexo, a precisão vem depois",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "option": "Volto pro cover, afinal estava só buscando informação",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "option": "Se sente obrigado a dar combate, e que vença o melhor",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Depois de matar 2 inimigos, você:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Valoriza, afinal 5v3 já é quase round ganho",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "option": "Parte pra cima, afinal quem mata 2, mata 3",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "option": "Avalia sua situação antes de tomar uma decisão pra não morrer de besteira",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "option": "Pensa que se morrer o time ainda tá na vantagem e tenta o ace",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Situação de 1v1, você:",
+      "options": [
+        { "id": 1, "option": "Se treme todo", "alias": "B" },
+        {
+          "id": 2,
+          "option": "Fica confiante e joga no erro inimigo",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "option": "Avalia a situação antes de tomar uma decisão",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "option": "Sai correndo pra matar o adversário sabendo que ele tem pouco HP",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "O jeito certo de fazer uma smoke é:",
+      "options": [
+        { "id": 1, "option": "Tanto faz, o importante é smokar", "alias": "B" },
+        {
+          "id": 2,
+          "option": "Quanto menos ela passar da área a ser smokada, melhor",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "option": "Quanto mais ela passar da área a ser smokada, melhor",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "option": "Depende, certos lugares podem ter usos diferentes",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Contra eco você:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Joga na vantagem da arma, afinal você não quer dar chance de morrer primeiro",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "option": "Sai correndo em busca de kill, afinal eco adversário é round de farmar frag",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "option": "Tenta punir o adversário, mas sempre de forma consciente",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "option": "Tanto faz, afinal a vantagem de arma é maior e o round já tá ganho por isso",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você é Radiante",
+    "B": "Infelizmente você é Bronze. Ruim."
+  }
+}
